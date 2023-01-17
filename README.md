@@ -1,5 +1,3 @@
-# CMU10601-machine_learning
-
 # CMU10601 Machine learning code
 
 
